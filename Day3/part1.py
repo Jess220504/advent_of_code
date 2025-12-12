@@ -1,4 +1,4 @@
-with open("Jour3/doc.txt", "r") as file:
+with open("Day3/doc.txt", "r") as file:
     lines = file.readlines()
 first_number = 0
 index = 0
@@ -20,4 +20,5 @@ for i in range(len(lines)):
         if int(lines[i][j]) > second_number:
             second_number = int(lines[i][j])
     res += first_number*10 + second_number
+    
 print(res)

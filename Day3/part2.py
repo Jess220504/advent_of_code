@@ -1,4 +1,4 @@
-with open("Jour3/doc.txt", "r") as file:
+with open("Day3/doc.txt", "r") as file:
     lines = file.readlines()
 res = 0
 
@@ -26,4 +26,5 @@ for i in range(len(lines)):
         line_res *= 10
         line_res += line[j]
     res += line_res
+    
 print(res)
