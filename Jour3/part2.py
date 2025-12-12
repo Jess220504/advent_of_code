@@ -25,6 +25,5 @@ for i in range(len(lines)):
     for j in range(len(line)):
         line_res *= 10
         line_res += line[j]
-    print(line_res)
     res += line_res
 print(res)
