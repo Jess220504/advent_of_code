@@ -23,4 +23,5 @@ for i in range(len(new_tab[0])):
         for j in range(1, len(new_tab) - 1):
             col_res += int(new_tab[j][i])
     res += col_res
+    
 print(res)
