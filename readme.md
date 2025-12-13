@@ -1,5 +1,7 @@
 # Advent of code
 
+Total stars : 12
+
 #### Progress by years :
 
 - 2015 : 0/50
