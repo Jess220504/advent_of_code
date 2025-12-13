@@ -1,4 +1,4 @@
-with open("Day5/doc.txt", "r") as file:
+with open("day5/doc.txt", "r") as file:
     lines = file.readlines()
 res = 0
 ranges = []
