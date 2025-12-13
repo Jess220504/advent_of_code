@@ -1,4 +1,4 @@
-with open("day1/doc.txt", "r") as file:
+with open("2025/day1/doc.txt", "r") as file:
     lines = file.readlines()
 num = 50
 old_num = num

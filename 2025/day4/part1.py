@@ -1,4 +1,4 @@
-with open("day4/doc.txt", "r") as file:
+with open("2025/day4/doc.txt", "r") as file:
     lines = file.readlines()
 res = 0
 

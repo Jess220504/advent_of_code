@@ -1,4 +1,4 @@
-with open("day6/doc.txt", "r") as file:
+with open("2025/day6/doc.txt", "r") as file:
     lines = file.readlines()
 res = 0
 new_tab = []
