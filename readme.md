@@ -26,7 +26,7 @@ Total stars : 12/524
 - Day 4 : 2/2
 - Day 5 : 2/2
 - Day 6 : 2/2
-- Day 7 : 0/2
+- Day 7 : 0/2 (WIP)
 - Day 8 : 0/2
 - Day 9 : 0/2
 - Day 10 : 0/2
