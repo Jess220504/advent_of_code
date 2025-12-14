@@ -1,6 +1,6 @@
 # Advent of code
 
-Total stars : 12
+Total stars : 12/524
 
 #### Progress by years :
 
