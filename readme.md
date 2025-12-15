@@ -1,6 +1,6 @@
 # Advent of code
 
-Total stars : 13/524
+Total stars : 14/524
 
 #### Progress by years :
 
@@ -14,7 +14,7 @@ Total stars : 13/524
 - 2022 : 0/50
 - 2023 : 0/50
 - 2024 : 0/50
-- 2024 : 13/24
+- 2024 : 14/24
 
 ## 2025
 
@@ -26,7 +26,7 @@ Total stars : 13/524
 - Day 4 : 2/2
 - Day 5 : 2/2
 - Day 6 : 2/2
-- Day 7 : 1/2 (WIP)
+- Day 7 : 2/2
 - Day 8 : 0/2
 - Day 9 : 0/2
 - Day 10 : 0/2
